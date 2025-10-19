@@ -51,6 +51,7 @@ The final corrected text is displayed or saved.
 Metric	Before Correction	After Correction
 Word Error Rate (WER)	0.1560	0.1453
 Character Error Rate (CER)	0.0425	0.0394
+
 🧰 Setup Instructions
 
 Clone this repository and run the main script:
