@@ -70,6 +70,9 @@ README.md – Documentation explaining the project purpose, architecture, and us
 👨‍💻 Author
 
 Aadit Mali
+
 IT Engineering Student
+
 Vishwakarma Institute of Information Technology, Pune
+
 📧 aadit.22311883@viit.ac.in
