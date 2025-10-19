@@ -3,6 +3,7 @@ A hybrid CRNN and NLP-based post-correction framework for Optical Character Reco
 CRNN Handwriting Recognizer (Version 3)
 
 CRNN Handwriting Recognizer (Version 3)
+
 📘 Project Overview
 
 This project implements a Hybrid CRNN and NLP-Based Post-Correction Framework for Optical Character Recognition (OCR).
